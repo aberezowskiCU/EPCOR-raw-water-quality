@@ -1,0 +1,21 @@
+year,month,plant,parameter,stat,value_mean
+2025,1,E.L. Smith,Colour (TCU),Avg,2.8983606557377053
+2025,1,E.L. Smith,Colour (TCU),Max,2.7661290322580645
+2025,1,E.L. Smith,Colour (TCU),Min,5.27258064516129
+2025,1,E.L. Smith,Turbidity (NTU),Avg,2.59672131147541
+2025,1,E.L. Smith,Turbidity (NTU),Max,2.4645161290322584
+2025,1,E.L. Smith,Turbidity (NTU),Min,2.148387096774193
+2025,1,E.L. Smith,pH,Avg,8.048780487804878
+2025,1,E.L. Smith,pH,Max,8.038775510204081
+2025,1,E.L. Smith,pH,Min,5.199999999999999
+2025,1,Rosedale,Colour (TCU),Avg,2.7580645161290325
+2025,1,Rosedale,Colour (TCU),Max,3.012903225806452
+2025,1,Rosedale,Colour (TCU),Min,2.509677419354839
+2025,1,Rosedale,Turbidity (NTU),Avg,2.6193548387096777
+2025,1,Rosedale,Turbidity (NTU),Max,2.9741935483870967
+2025,1,Rosedale,Turbidity (NTU),Min,2.364516129032258
+2025,1,Rosedale,pH,Avg,8.074193548387097
+2025,1,Rosedale,pH,Max,8.096774193548388
+2025,1,Rosedale,pH,Min,8.035483870967742
+2025,1,Unknown,Turbidity (NTU),Max,
+2025,1,Unknown,Turbidity (NTU),Min,3.0

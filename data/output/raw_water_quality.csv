@@ -1,0 +1,994 @@
+date,year,month,day,plant,parameter,stat,value
+2025-01-01,2025,1,1,E.L. Smith,Colour (TCU),Avg,
+2025-01-01,2025,1,1,E.L. Smith,Colour (TCU),Max,
+2025-01-01,2025,1,1,E.L. Smith,Colour (TCU),Min,
+2025-01-01,2025,1,1,E.L. Smith,Turbidity (NTU),Avg,
+2025-01-01,2025,1,1,E.L. Smith,Turbidity (NTU),Max,
+2025-01-01,2025,1,1,E.L. Smith,Turbidity (NTU),Min,
+2025-01-01,2025,1,1,E.L. Smith,pH,Avg,
+2025-01-01,2025,1,1,E.L. Smith,pH,Max,
+2025-01-01,2025,1,1,E.L. Smith,pH,Min,
+2025-01-01,2025,1,1,Rosedale,Colour (TCU),Avg,
+2025-01-01,2025,1,1,Rosedale,Colour (TCU),Max,
+2025-01-01,2025,1,1,Rosedale,Colour (TCU),Min,
+2025-01-01,2025,1,1,Rosedale,Turbidity (NTU),Avg,
+2025-01-01,2025,1,1,Rosedale,Turbidity (NTU),Max,
+2025-01-01,2025,1,1,Rosedale,Turbidity (NTU),Min,
+2025-01-01,2025,1,1,Rosedale,pH,Avg,
+2025-01-01,2025,1,1,Rosedale,pH,Max,
+2025-01-01,2025,1,1,Rosedale,pH,Min,
+2025-01-01,2025,1,1,Unknown,Turbidity (NTU),Max,
+2025-01-01,2025,1,1,Unknown,Turbidity (NTU),Min,
+2025-01-04,2025,1,4,E.L. Smith,Colour (TCU),Avg,
+2025-01-04,2025,1,4,E.L. Smith,Colour (TCU),Max,
+2025-01-04,2025,1,4,E.L. Smith,Colour (TCU),Min,
+2025-01-04,2025,1,4,E.L. Smith,Turbidity (NTU),Avg,
+2025-01-04,2025,1,4,E.L. Smith,Turbidity (NTU),Max,
+2025-01-04,2025,1,4,E.L. Smith,Turbidity (NTU),Min,
+2025-01-04,2025,1,4,E.L. Smith,pH,Avg,
+2025-01-04,2025,1,4,E.L. Smith,pH,Max,
+2025-01-04,2025,1,4,E.L. Smith,pH,Min,
+2025-01-04,2025,1,4,Rosedale,Colour (TCU),Avg,
+2025-01-04,2025,1,4,Rosedale,Colour (TCU),Max,
+2025-01-04,2025,1,4,Rosedale,Colour (TCU),Min,
+2025-01-04,2025,1,4,Rosedale,Turbidity (NTU),Avg,
+2025-01-04,2025,1,4,Rosedale,Turbidity (NTU),Max,
+2025-01-04,2025,1,4,Rosedale,Turbidity (NTU),Min,
+2025-01-04,2025,1,4,Rosedale,pH,Avg,
+2025-01-04,2025,1,4,Rosedale,pH,Max,
+2025-01-04,2025,1,4,Rosedale,pH,Min,
+2025-01-04,2025,1,4,Unknown,Turbidity (NTU),Max,
+2025-01-04,2025,1,4,Unknown,Turbidity (NTU),Min,
+2025-01-07,2025,1,7,E.L. Smith,Colour (TCU),Avg,
+2025-01-07,2025,1,7,E.L. Smith,Colour (TCU),Max,
+2025-01-07,2025,1,7,E.L. Smith,Colour (TCU),Min,
+2025-01-07,2025,1,7,E.L. Smith,Turbidity (NTU),Avg,
+2025-01-07,2025,1,7,E.L. Smith,Turbidity (NTU),Max,
+2025-01-07,2025,1,7,E.L. Smith,Turbidity (NTU),Min,
+2025-01-07,2025,1,7,E.L. Smith,pH,Avg,
+2025-01-07,2025,1,7,E.L. Smith,pH,Max,
+2025-01-07,2025,1,7,E.L. Smith,pH,Min,
+2025-01-07,2025,1,7,Rosedale,Colour (TCU),Avg,
+2025-01-07,2025,1,7,Rosedale,Colour (TCU),Max,
+2025-01-07,2025,1,7,Rosedale,Colour (TCU),Min,
+2025-01-07,2025,1,7,Rosedale,Turbidity (NTU),Avg,
+2025-01-07,2025,1,7,Rosedale,Turbidity (NTU),Max,
+2025-01-07,2025,1,7,Rosedale,Turbidity (NTU),Min,
+2025-01-07,2025,1,7,Rosedale,pH,Avg,
+2025-01-07,2025,1,7,Rosedale,pH,Max,
+2025-01-07,2025,1,7,Rosedale,pH,Min,
+2025-01-07,2025,1,7,Unknown,Turbidity (NTU),Max,
+2025-01-07,2025,1,7,Unknown,Turbidity (NTU),Min,
+2025-01-10,2025,1,10,E.L. Smith,Colour (TCU),Avg,
+2025-01-10,2025,1,10,E.L. Smith,Colour (TCU),Max,
+2025-01-10,2025,1,10,E.L. Smith,Colour (TCU),Min,
+2025-01-10,2025,1,10,E.L. Smith,Turbidity (NTU),Avg,
+2025-01-10,2025,1,10,E.L. Smith,Turbidity (NTU),Max,
+2025-01-10,2025,1,10,E.L. Smith,Turbidity (NTU),Min,
+2025-01-10,2025,1,10,E.L. Smith,pH,Avg,
+2025-01-10,2025,1,10,E.L. Smith,pH,Max,
+2025-01-10,2025,1,10,E.L. Smith,pH,Min,
+2025-01-10,2025,1,10,Rosedale,Colour (TCU),Avg,
+2025-01-10,2025,1,10,Rosedale,Colour (TCU),Max,
+2025-01-10,2025,1,10,Rosedale,Colour (TCU),Min,
+2025-01-10,2025,1,10,Rosedale,Turbidity (NTU),Avg,
+2025-01-10,2025,1,10,Rosedale,Turbidity (NTU),Max,
+2025-01-10,2025,1,10,Rosedale,Turbidity (NTU),Min,
+2025-01-10,2025,1,10,Rosedale,pH,Avg,
+2025-01-10,2025,1,10,Rosedale,pH,Max,
+2025-01-10,2025,1,10,Rosedale,pH,Min,
+2025-01-10,2025,1,10,Unknown,Turbidity (NTU),Max,
+2025-01-10,2025,1,10,Unknown,Turbidity (NTU),Min,
+2025-01-13,2025,1,13,E.L. Smith,Colour (TCU),Avg,
+2025-01-13,2025,1,13,E.L. Smith,Colour (TCU),Max,
+2025-01-13,2025,1,13,E.L. Smith,Colour (TCU),Min,
+2025-01-13,2025,1,13,E.L. Smith,Turbidity (NTU),Avg,
+2025-01-13,2025,1,13,E.L. Smith,Turbidity (NTU),Max,
+2025-01-13,2025,1,13,E.L. Smith,Turbidity (NTU),Min,
+2025-01-13,2025,1,13,E.L. Smith,pH,Avg,
+2025-01-13,2025,1,13,E.L. Smith,pH,Max,
+2025-01-13,2025,1,13,E.L. Smith,pH,Min,
+2025-01-13,2025,1,13,Rosedale,Colour (TCU),Avg,
+2025-01-13,2025,1,13,Rosedale,Colour (TCU),Max,
+2025-01-13,2025,1,13,Rosedale,Colour (TCU),Min,
+2025-01-13,2025,1,13,Rosedale,Turbidity (NTU),Avg,
+2025-01-13,2025,1,13,Rosedale,Turbidity (NTU),Max,
+2025-01-13,2025,1,13,Rosedale,Turbidity (NTU),Min,
+2025-01-13,2025,1,13,Rosedale,pH,Avg,
+2025-01-13,2025,1,13,Rosedale,pH,Max,
+2025-01-13,2025,1,13,Rosedale,pH,Min,
+2025-01-13,2025,1,13,Unknown,Turbidity (NTU),Max,
+2025-01-13,2025,1,13,Unknown,Turbidity (NTU),Min,
+2025-01-16,2025,1,16,E.L. Smith,Colour (TCU),Avg,
+2025-01-16,2025,1,16,E.L. Smith,Colour (TCU),Max,
+2025-01-16,2025,1,16,E.L. Smith,Colour (TCU),Min,
+2025-01-16,2025,1,16,E.L. Smith,Turbidity (NTU),Avg,
+2025-01-16,2025,1,16,E.L. Smith,Turbidity (NTU),Max,
+2025-01-16,2025,1,16,E.L. Smith,Turbidity (NTU),Min,
+2025-01-16,2025,1,16,E.L. Smith,pH,Avg,
+2025-01-16,2025,1,16,E.L. Smith,pH,Max,
+2025-01-16,2025,1,16,E.L. Smith,pH,Min,
+2025-01-16,2025,1,16,Rosedale,Colour (TCU),Avg,
+2025-01-16,2025,1,16,Rosedale,Colour (TCU),Max,
+2025-01-16,2025,1,16,Rosedale,Colour (TCU),Min,
+2025-01-16,2025,1,16,Rosedale,Turbidity (NTU),Avg,
+2025-01-16,2025,1,16,Rosedale,Turbidity (NTU),Max,
+2025-01-16,2025,1,16,Rosedale,Turbidity (NTU),Min,
+2025-01-16,2025,1,16,Rosedale,pH,Avg,
+2025-01-16,2025,1,16,Rosedale,pH,Max,
+2025-01-16,2025,1,16,Rosedale,pH,Min,
+2025-01-16,2025,1,16,Unknown,Turbidity (NTU),Max,
+2025-01-16,2025,1,16,Unknown,Turbidity (NTU),Min,
+2025-01-19,2025,1,19,E.L. Smith,Colour (TCU),Avg,
+2025-01-19,2025,1,19,E.L. Smith,Colour (TCU),Max,
+2025-01-19,2025,1,19,E.L. Smith,Colour (TCU),Min,
+2025-01-19,2025,1,19,E.L. Smith,Turbidity (NTU),Avg,
+2025-01-19,2025,1,19,E.L. Smith,Turbidity (NTU),Max,
+2025-01-19,2025,1,19,E.L. Smith,Turbidity (NTU),Min,
+2025-01-19,2025,1,19,E.L. Smith,pH,Avg,
+2025-01-19,2025,1,19,E.L. Smith,pH,Max,
+2025-01-19,2025,1,19,E.L. Smith,pH,Min,
+2025-01-19,2025,1,19,Rosedale,Colour (TCU),Avg,
+2025-01-19,2025,1,19,Rosedale,Colour (TCU),Max,
+2025-01-19,2025,1,19,Rosedale,Colour (TCU),Min,
+2025-01-19,2025,1,19,Rosedale,Turbidity (NTU),Avg,
+2025-01-19,2025,1,19,Rosedale,Turbidity (NTU),Max,
+2025-01-19,2025,1,19,Rosedale,Turbidity (NTU),Min,
+2025-01-19,2025,1,19,Rosedale,pH,Avg,
+2025-01-19,2025,1,19,Rosedale,pH,Max,
+2025-01-19,2025,1,19,Rosedale,pH,Min,
+2025-01-19,2025,1,19,Unknown,Turbidity (NTU),Max,
+2025-01-19,2025,1,19,Unknown,Turbidity (NTU),Min,
+2025-01-22,2025,1,22,E.L. Smith,Colour (TCU),Avg,
+2025-01-22,2025,1,22,E.L. Smith,Colour (TCU),Max,
+2025-01-22,2025,1,22,E.L. Smith,Colour (TCU),Min,
+2025-01-22,2025,1,22,E.L. Smith,Turbidity (NTU),Avg,
+2025-01-22,2025,1,22,E.L. Smith,Turbidity (NTU),Max,
+2025-01-22,2025,1,22,E.L. Smith,Turbidity (NTU),Min,
+2025-01-22,2025,1,22,E.L. Smith,pH,Avg,
+2025-01-22,2025,1,22,E.L. Smith,pH,Max,
+2025-01-22,2025,1,22,E.L. Smith,pH,Min,
+2025-01-22,2025,1,22,Rosedale,Colour (TCU),Avg,
+2025-01-22,2025,1,22,Rosedale,Colour (TCU),Max,
+2025-01-22,2025,1,22,Rosedale,Colour (TCU),Min,
+2025-01-22,2025,1,22,Rosedale,Turbidity (NTU),Avg,
+2025-01-22,2025,1,22,Rosedale,Turbidity (NTU),Max,
+2025-01-22,2025,1,22,Rosedale,Turbidity (NTU),Min,
+2025-01-22,2025,1,22,Rosedale,pH,Avg,
+2025-01-22,2025,1,22,Rosedale,pH,Max,
+2025-01-22,2025,1,22,Rosedale,pH,Min,
+2025-01-22,2025,1,22,Unknown,Turbidity (NTU),Max,
+2025-01-22,2025,1,22,Unknown,Turbidity (NTU),Min,
+2025-01-25,2025,1,25,E.L. Smith,Colour (TCU),Avg,
+2025-01-25,2025,1,25,E.L. Smith,Colour (TCU),Max,
+2025-01-25,2025,1,25,E.L. Smith,Colour (TCU),Min,
+2025-01-25,2025,1,25,E.L. Smith,Turbidity (NTU),Avg,
+2025-01-25,2025,1,25,E.L. Smith,Turbidity (NTU),Max,
+2025-01-25,2025,1,25,E.L. Smith,Turbidity (NTU),Min,
+2025-01-25,2025,1,25,E.L. Smith,pH,Avg,
+2025-01-25,2025,1,25,E.L. Smith,pH,Max,
+2025-01-25,2025,1,25,E.L. Smith,pH,Min,
+2025-01-25,2025,1,25,Rosedale,Colour (TCU),Avg,
+2025-01-25,2025,1,25,Rosedale,Colour (TCU),Max,
+2025-01-25,2025,1,25,Rosedale,Colour (TCU),Min,
+2025-01-25,2025,1,25,Rosedale,Turbidity (NTU),Avg,
+2025-01-25,2025,1,25,Rosedale,Turbidity (NTU),Max,
+2025-01-25,2025,1,25,Rosedale,Turbidity (NTU),Min,
+2025-01-25,2025,1,25,Rosedale,pH,Avg,
+2025-01-25,2025,1,25,Rosedale,pH,Max,
+2025-01-25,2025,1,25,Rosedale,pH,Min,
+2025-01-25,2025,1,25,Unknown,Turbidity (NTU),Max,
+2025-01-25,2025,1,25,Unknown,Turbidity (NTU),Min,
+2025-01-28,2025,1,28,E.L. Smith,Colour (TCU),Avg,
+2025-01-28,2025,1,28,E.L. Smith,Colour (TCU),Max,
+2025-01-28,2025,1,28,E.L. Smith,Colour (TCU),Min,
+2025-01-28,2025,1,28,E.L. Smith,Turbidity (NTU),Avg,
+2025-01-28,2025,1,28,E.L. Smith,Turbidity (NTU),Max,
+2025-01-28,2025,1,28,E.L. Smith,Turbidity (NTU),Min,
+2025-01-28,2025,1,28,E.L. Smith,pH,Avg,
+2025-01-28,2025,1,28,E.L. Smith,pH,Max,
+2025-01-28,2025,1,28,E.L. Smith,pH,Min,
+2025-01-28,2025,1,28,Rosedale,Colour (TCU),Avg,
+2025-01-28,2025,1,28,Rosedale,Colour (TCU),Max,
+2025-01-28,2025,1,28,Rosedale,Colour (TCU),Min,
+2025-01-28,2025,1,28,Rosedale,Turbidity (NTU),Avg,
+2025-01-28,2025,1,28,Rosedale,Turbidity (NTU),Max,
+2025-01-28,2025,1,28,Rosedale,Turbidity (NTU),Min,
+2025-01-28,2025,1,28,Rosedale,pH,Avg,
+2025-01-28,2025,1,28,Rosedale,pH,Max,
+2025-01-28,2025,1,28,Rosedale,pH,Min,
+2025-01-28,2025,1,28,Unknown,Turbidity (NTU),Max,
+2025-01-28,2025,1,28,Unknown,Turbidity (NTU),Min,
+2025-01-31,2025,1,31,E.L. Smith,Colour (TCU),Avg,3.1
+2025-01-31,2025,1,31,E.L. Smith,Colour (TCU),Max,2.8
+2025-01-31,2025,1,31,E.L. Smith,Colour (TCU),Min,7.9
+2025-01-31,2025,1,31,E.L. Smith,Turbidity (NTU),Avg,2.1
+2025-01-31,2025,1,31,E.L. Smith,Turbidity (NTU),Max,2.0
+2025-01-31,2025,1,31,E.L. Smith,Turbidity (NTU),Min,
+2025-01-31,2025,1,31,E.L. Smith,pH,Avg,8.0
+2025-01-31,2025,1,31,E.L. Smith,pH,Max,7.9
+2025-01-31,2025,1,31,E.L. Smith,pH,Min,2.0
+2025-01-31,2025,1,31,Rosedale,Colour (TCU),Avg,3.0
+2025-01-31,2025,1,31,Rosedale,Colour (TCU),Max,3.2
+2025-01-31,2025,1,31,Rosedale,Colour (TCU),Min,3.0
+2025-01-31,2025,1,31,Rosedale,Turbidity (NTU),Avg,2.1
+2025-01-31,2025,1,31,Rosedale,Turbidity (NTU),Max,2.3
+2025-01-31,2025,1,31,Rosedale,Turbidity (NTU),Min,1.9
+2025-01-31,2025,1,31,Rosedale,pH,Avg,8.1
+2025-01-31,2025,1,31,Rosedale,pH,Max,8.1
+2025-01-31,2025,1,31,Rosedale,pH,Min,8.1
+2025-01-31,2025,1,31,Unknown,Turbidity (NTU),Max,
+2025-01-31,2025,1,31,Unknown,Turbidity (NTU),Min,3.0
+2025-01-01,2025,1,1,E.L. Smith,Colour (TCU),Avg,3.1
+2025-01-01,2025,1,1,E.L. Smith,Colour (TCU),Max,2.6
+2025-01-01,2025,1,1,E.L. Smith,Colour (TCU),Min,8.1
+2025-01-01,2025,1,1,E.L. Smith,Turbidity (NTU),Avg,2.2
+2025-01-01,2025,1,1,E.L. Smith,Turbidity (NTU),Max,2.0
+2025-01-01,2025,1,1,E.L. Smith,pH,Avg,8.1
+2025-01-01,2025,1,1,E.L. Smith,pH,Max,8.1
+2025-01-01,2025,1,1,E.L. Smith,pH,Min,2.1
+2025-01-01,2025,1,1,Rosedale,Colour (TCU),Avg,2.5
+2025-01-01,2025,1,1,Rosedale,Colour (TCU),Max,2.8
+2025-01-01,2025,1,1,Rosedale,Colour (TCU),Min,2.1
+2025-01-01,2025,1,1,Rosedale,Turbidity (NTU),Avg,2.2
+2025-01-01,2025,1,1,Rosedale,Turbidity (NTU),Max,2.7
+2025-01-01,2025,1,1,Rosedale,Turbidity (NTU),Min,2.1
+2025-01-01,2025,1,1,Rosedale,pH,Avg,8.1
+2025-01-01,2025,1,1,Rosedale,pH,Max,8.1
+2025-01-01,2025,1,1,Rosedale,pH,Min,8.1
+2025-01-02,2025,1,2,E.L. Smith,Colour (TCU),Avg,3.1
+2025-01-02,2025,1,2,E.L. Smith,Colour (TCU),Max,2.5
+2025-01-02,2025,1,2,E.L. Smith,Colour (TCU),Min,8.1
+2025-01-02,2025,1,2,E.L. Smith,Turbidity (NTU),Avg,2.2
+2025-01-02,2025,1,2,E.L. Smith,Turbidity (NTU),Max,1.9
+2025-01-02,2025,1,2,E.L. Smith,Turbidity (NTU),Min,
+2025-01-02,2025,1,2,E.L. Smith,pH,Avg,8.1
+2025-01-02,2025,1,2,E.L. Smith,pH,Max,8.1
+2025-01-02,2025,1,2,E.L. Smith,pH,Min,2.1
+2025-01-02,2025,1,2,Rosedale,Colour (TCU),Avg,2.7
+2025-01-02,2025,1,2,Rosedale,Colour (TCU),Max,2.8
+2025-01-02,2025,1,2,Rosedale,Colour (TCU),Min,2.6
+2025-01-02,2025,1,2,Rosedale,Turbidity (NTU),Avg,2.5
+2025-01-02,2025,1,2,Rosedale,Turbidity (NTU),Max,2.7
+2025-01-02,2025,1,2,Rosedale,Turbidity (NTU),Min,2.3
+2025-01-02,2025,1,2,Rosedale,pH,Avg,8.1
+2025-01-02,2025,1,2,Rosedale,pH,Max,8.1
+2025-01-02,2025,1,2,Rosedale,pH,Min,8.1
+2025-01-03,2025,1,3,E.L. Smith,Colour (TCU),Avg,2.9
+2025-01-03,2025,1,3,E.L. Smith,Colour (TCU),Max,2.5
+2025-01-03,2025,1,3,E.L. Smith,Colour (TCU),Min,8.1
+2025-01-03,2025,1,3,E.L. Smith,Turbidity (NTU),Avg,2.3
+2025-01-03,2025,1,3,E.L. Smith,Turbidity (NTU),Max,2.0
+2025-01-03,2025,1,3,E.L. Smith,Turbidity (NTU),Min,
+2025-01-03,2025,1,3,E.L. Smith,pH,Avg,8.1
+2025-01-03,2025,1,3,E.L. Smith,pH,Max,8.0
+2025-01-03,2025,1,3,E.L. Smith,pH,Min,2.1
+2025-01-03,2025,1,3,Rosedale,Colour (TCU),Avg,2.4
+2025-01-03,2025,1,3,Rosedale,Colour (TCU),Max,2.8
+2025-01-03,2025,1,3,Rosedale,Colour (TCU),Min,2.1
+2025-01-03,2025,1,3,Rosedale,Turbidity (NTU),Avg,2.3
+2025-01-03,2025,1,3,Rosedale,Turbidity (NTU),Max,2.4
+2025-01-03,2025,1,3,Rosedale,Turbidity (NTU),Min,2.3
+2025-01-03,2025,1,3,Rosedale,pH,Avg,8.1
+2025-01-03,2025,1,3,Rosedale,pH,Max,8.1
+2025-01-03,2025,1,3,Rosedale,pH,Min,8.0
+2025-01-04,2025,1,4,E.L. Smith,Colour (TCU),Avg,2.6
+2025-01-04,2025,1,4,E.L. Smith,Colour (TCU),Max,1.9
+2025-01-04,2025,1,4,E.L. Smith,Colour (TCU),Min,8.1
+2025-01-04,2025,1,4,E.L. Smith,Turbidity (NTU),Avg,2.0
+2025-01-04,2025,1,4,E.L. Smith,Turbidity (NTU),Max,1.9
+2025-01-04,2025,1,4,E.L. Smith,pH,Avg,8.1
+2025-01-04,2025,1,4,E.L. Smith,pH,Max,8.0
+2025-01-04,2025,1,4,E.L. Smith,pH,Min,2.0
+2025-01-04,2025,1,4,Rosedale,Colour (TCU),Avg,2.7
+2025-01-04,2025,1,4,Rosedale,Colour (TCU),Max,2.8
+2025-01-04,2025,1,4,Rosedale,Colour (TCU),Min,2.5
+2025-01-04,2025,1,4,Rosedale,Turbidity (NTU),Avg,2.2
+2025-01-04,2025,1,4,Rosedale,Turbidity (NTU),Max,2.4
+2025-01-04,2025,1,4,Rosedale,Turbidity (NTU),Min,2.0
+2025-01-04,2025,1,4,Rosedale,pH,Avg,8.0
+2025-01-04,2025,1,4,Rosedale,pH,Max,8.1
+2025-01-04,2025,1,4,Rosedale,pH,Min,8.0
+2025-01-05,2025,1,5,E.L. Smith,Colour (TCU),Avg,3.0
+2025-01-05,2025,1,5,E.L. Smith,Colour (TCU),Max,2.4
+2025-01-05,2025,1,5,E.L. Smith,Colour (TCU),Min,8.1
+2025-01-05,2025,1,5,E.L. Smith,Turbidity (NTU),Avg,2.8
+2025-01-05,2025,1,5,E.L. Smith,Turbidity (NTU),Max,1.9
+2025-01-05,2025,1,5,E.L. Smith,Turbidity (NTU),Min,
+2025-01-05,2025,1,5,E.L. Smith,pH,Avg,8.1
+2025-01-05,2025,1,5,E.L. Smith,pH,Max,8.0
+2025-01-05,2025,1,5,E.L. Smith,pH,Min,2.1
+2025-01-05,2025,1,5,Rosedale,Colour (TCU),Avg,2.6
+2025-01-05,2025,1,5,Rosedale,Colour (TCU),Max,2.8
+2025-01-05,2025,1,5,Rosedale,Colour (TCU),Min,2.5
+2025-01-05,2025,1,5,Rosedale,Turbidity (NTU),Avg,2.1
+2025-01-05,2025,1,5,Rosedale,Turbidity (NTU),Max,2.4
+2025-01-05,2025,1,5,Rosedale,Turbidity (NTU),Min,2.0
+2025-01-05,2025,1,5,Rosedale,pH,Avg,8.1
+2025-01-05,2025,1,5,Rosedale,pH,Max,8.1
+2025-01-05,2025,1,5,Rosedale,pH,Min,8.0
+2025-01-06,2025,1,6,E.L. Smith,Colour (TCU),Avg,3.0
+2025-01-06,2025,1,6,E.L. Smith,Colour (TCU),Max,1.9
+2025-01-06,2025,1,6,E.L. Smith,Colour (TCU),Min,8.0
+2025-01-06,2025,1,6,E.L. Smith,Turbidity (NTU),Avg,2.8
+2025-01-06,2025,1,6,E.L. Smith,Turbidity (NTU),Max,2.0
+2025-01-06,2025,1,6,E.L. Smith,Turbidity (NTU),Min,
+2025-01-06,2025,1,6,E.L. Smith,pH,Avg,8.0
+2025-01-06,2025,1,6,E.L. Smith,pH,Max,8.0
+2025-01-06,2025,1,6,E.L. Smith,pH,Min,2.2
+2025-01-06,2025,1,6,Rosedale,Colour (TCU),Avg,2.5
+2025-01-06,2025,1,6,Rosedale,Colour (TCU),Max,2.7
+2025-01-06,2025,1,6,Rosedale,Colour (TCU),Min,2.3
+2025-01-06,2025,1,6,Rosedale,Turbidity (NTU),Avg,2.2
+2025-01-06,2025,1,6,Rosedale,Turbidity (NTU),Max,2.4
+2025-01-06,2025,1,6,Rosedale,Turbidity (NTU),Min,2.1
+2025-01-06,2025,1,6,Rosedale,pH,Avg,8.1
+2025-01-06,2025,1,6,Rosedale,pH,Max,8.1
+2025-01-06,2025,1,6,Rosedale,pH,Min,8.0
+2025-01-07,2025,1,7,E.L. Smith,Colour (TCU),Avg,2.6
+2025-01-07,2025,1,7,E.L. Smith,Colour (TCU),Max,2.1
+2025-01-07,2025,1,7,E.L. Smith,Colour (TCU),Min,8.0
+2025-01-07,2025,1,7,E.L. Smith,Turbidity (NTU),Avg,2.3
+2025-01-07,2025,1,7,E.L. Smith,Turbidity (NTU),Max,2.2
+2025-01-07,2025,1,7,E.L. Smith,pH,Avg,8.0
+2025-01-07,2025,1,7,E.L. Smith,pH,Max,8.0
+2025-01-07,2025,1,7,E.L. Smith,pH,Min,2.2
+2025-01-07,2025,1,7,Rosedale,Colour (TCU),Avg,2.3
+2025-01-07,2025,1,7,Rosedale,Colour (TCU),Max,2.5
+2025-01-07,2025,1,7,Rosedale,Colour (TCU),Min,2.3
+2025-01-07,2025,1,7,Rosedale,Turbidity (NTU),Avg,2.4
+2025-01-07,2025,1,7,Rosedale,Turbidity (NTU),Max,2.5
+2025-01-07,2025,1,7,Rosedale,Turbidity (NTU),Min,2.4
+2025-01-07,2025,1,7,Rosedale,pH,Avg,8.1
+2025-01-07,2025,1,7,Rosedale,pH,Max,8.1
+2025-01-07,2025,1,7,Rosedale,pH,Min,8.1
+2025-01-08,2025,1,8,E.L. Smith,Colour (TCU),Avg,2.9
+2025-01-08,2025,1,8,E.L. Smith,Colour (TCU),Max,2.4
+2025-01-08,2025,1,8,E.L. Smith,Colour (TCU),Min,8.0
+2025-01-08,2025,1,8,E.L. Smith,Turbidity (NTU),Avg,2.5
+2025-01-08,2025,1,8,E.L. Smith,Turbidity (NTU),Max,2.1
+2025-01-08,2025,1,8,E.L. Smith,Turbidity (NTU),Min,
+2025-01-08,2025,1,8,E.L. Smith,pH,Avg,8.1
+2025-01-08,2025,1,8,E.L. Smith,pH,Max,8.0
+2025-01-08,2025,1,8,E.L. Smith,pH,Min,2.3
+2025-01-08,2025,1,8,Rosedale,Colour (TCU),Avg,2.5
+2025-01-08,2025,1,8,Rosedale,Colour (TCU),Max,2.6
+2025-01-08,2025,1,8,Rosedale,Colour (TCU),Min,2.4
+2025-01-08,2025,1,8,Rosedale,Turbidity (NTU),Avg,2.5
+2025-01-08,2025,1,8,Rosedale,Turbidity (NTU),Max,2.8
+2025-01-08,2025,1,8,Rosedale,Turbidity (NTU),Min,2.5
+2025-01-08,2025,1,8,Rosedale,pH,Avg,8.0
+2025-01-08,2025,1,8,Rosedale,pH,Max,8.1
+2025-01-08,2025,1,8,Rosedale,pH,Min,8.0
+2025-01-09,2025,1,9,E.L. Smith,Colour (TCU),Avg,3.1
+2025-01-09,2025,1,9,E.L. Smith,Colour (TCU),Max,2.5
+2025-01-09,2025,1,9,E.L. Smith,Colour (TCU),Min,8.1
+2025-01-09,2025,1,9,E.L. Smith,Turbidity (NTU),Avg,7.3
+2025-01-09,2025,1,9,E.L. Smith,Turbidity (NTU),Max,2.3
+2025-01-09,2025,1,9,E.L. Smith,Turbidity (NTU),Min,
+2025-01-09,2025,1,9,E.L. Smith,pH,Avg,8.1
+2025-01-09,2025,1,9,E.L. Smith,pH,Max,8.1
+2025-01-09,2025,1,9,E.L. Smith,pH,Min,3.9
+2025-01-09,2025,1,9,Rosedale,Colour (TCU),Avg,2.2
+2025-01-09,2025,1,9,Rosedale,Colour (TCU),Max,2.4
+2025-01-09,2025,1,9,Rosedale,Colour (TCU),Min,2.0
+2025-01-09,2025,1,9,Rosedale,Turbidity (NTU),Avg,3.0
+2025-01-09,2025,1,9,Rosedale,Turbidity (NTU),Max,4.1
+2025-01-09,2025,1,9,Rosedale,Turbidity (NTU),Min,2.8
+2025-01-09,2025,1,9,Rosedale,pH,Avg,8.0
+2025-01-09,2025,1,9,Rosedale,pH,Max,8.1
+2025-01-09,2025,1,9,Rosedale,pH,Min,8.0
+2025-01-10,2025,1,10,E.L. Smith,Colour (TCU),Avg,2.8
+2025-01-10,2025,1,10,E.L. Smith,Colour (TCU),Max,2.5
+2025-01-10,2025,1,10,E.L. Smith,Colour (TCU),Min,8.0
+2025-01-10,2025,1,10,E.L. Smith,Turbidity (NTU),Avg,2.5
+2025-01-10,2025,1,10,E.L. Smith,Turbidity (NTU),Max,2.3
+2025-01-10,2025,1,10,E.L. Smith,pH,Avg,8.1
+2025-01-10,2025,1,10,E.L. Smith,pH,Max,8.0
+2025-01-10,2025,1,10,E.L. Smith,pH,Min,2.4
+2025-01-10,2025,1,10,Rosedale,Colour (TCU),Avg,2.3
+2025-01-10,2025,1,10,Rosedale,Colour (TCU),Max,2.6
+2025-01-10,2025,1,10,Rosedale,Colour (TCU),Min,2.0
+2025-01-10,2025,1,10,Rosedale,Turbidity (NTU),Avg,3.2
+2025-01-10,2025,1,10,Rosedale,Turbidity (NTU),Max,4.1
+2025-01-10,2025,1,10,Rosedale,Turbidity (NTU),Min,2.6
+2025-01-10,2025,1,10,Rosedale,pH,Avg,8.1
+2025-01-10,2025,1,10,Rosedale,pH,Max,8.1
+2025-01-10,2025,1,10,Rosedale,pH,Min,8.0
+2025-01-11,2025,1,11,E.L. Smith,Colour (TCU),Avg,2.5
+2025-01-11,2025,1,11,E.L. Smith,Colour (TCU),Max,2.4
+2025-01-11,2025,1,11,E.L. Smith,Colour (TCU),Min,8.0
+2025-01-11,2025,1,11,E.L. Smith,Turbidity (NTU),Avg,3.6
+2025-01-11,2025,1,11,E.L. Smith,Turbidity (NTU),Max,2.2
+2025-01-11,2025,1,11,E.L. Smith,Turbidity (NTU),Min,
+2025-01-11,2025,1,11,E.L. Smith,pH,Avg,8.0
+2025-01-11,2025,1,11,E.L. Smith,pH,Max,8.0
+2025-01-11,2025,1,11,E.L. Smith,pH,Min,2.6
+2025-01-11,2025,1,11,Rosedale,Colour (TCU),Avg,2.9
+2025-01-11,2025,1,11,Rosedale,Colour (TCU),Max,3.4
+2025-01-11,2025,1,11,Rosedale,Colour (TCU),Min,2.4
+2025-01-11,2025,1,11,Rosedale,Turbidity (NTU),Avg,4.3
+2025-01-11,2025,1,11,Rosedale,Turbidity (NTU),Max,5.3
+2025-01-11,2025,1,11,Rosedale,Turbidity (NTU),Min,3.2
+2025-01-11,2025,1,11,Rosedale,pH,Avg,8.1
+2025-01-11,2025,1,11,Rosedale,pH,Max,8.1
+2025-01-11,2025,1,11,Rosedale,pH,Min,8.1
+2025-01-12,2025,1,12,E.L. Smith,Colour (TCU),Avg,2.7
+2025-01-12,2025,1,12,E.L. Smith,Colour (TCU),Max,2.2
+2025-01-12,2025,1,12,E.L. Smith,Colour (TCU),Min,8.0
+2025-01-12,2025,1,12,E.L. Smith,Turbidity (NTU),Avg,3.6
+2025-01-12,2025,1,12,E.L. Smith,Turbidity (NTU),Max,2.4
+2025-01-12,2025,1,12,E.L. Smith,Turbidity (NTU),Min,
+2025-01-12,2025,1,12,E.L. Smith,pH,Avg,8.1
+2025-01-12,2025,1,12,E.L. Smith,pH,Max,7.9
+2025-01-12,2025,1,12,E.L. Smith,pH,Min,2.9
+2025-01-12,2025,1,12,Rosedale,Colour (TCU),Avg,2.5
+2025-01-12,2025,1,12,Rosedale,Colour (TCU),Max,2.6
+2025-01-12,2025,1,12,Rosedale,Colour (TCU),Min,2.3
+2025-01-12,2025,1,12,Rosedale,Turbidity (NTU),Avg,4.0
+2025-01-12,2025,1,12,Rosedale,Turbidity (NTU),Max,4.9
+2025-01-12,2025,1,12,Rosedale,Turbidity (NTU),Min,3.1
+2025-01-12,2025,1,12,Rosedale,pH,Avg,8.1
+2025-01-12,2025,1,12,Rosedale,pH,Max,8.1
+2025-01-12,2025,1,12,Rosedale,pH,Min,8.0
+2025-01-13,2025,1,13,E.L. Smith,Colour (TCU),Avg,2.7
+2025-01-13,2025,1,13,E.L. Smith,Colour (TCU),Max,2.2
+2025-01-13,2025,1,13,E.L. Smith,Colour (TCU),Min,8.1
+2025-01-13,2025,1,13,E.L. Smith,Turbidity (NTU),Avg,2.7
+2025-01-13,2025,1,13,E.L. Smith,Turbidity (NTU),Max,2.3
+2025-01-13,2025,1,13,E.L. Smith,pH,Avg,8.1
+2025-01-13,2025,1,13,E.L. Smith,pH,Max,8.0
+2025-01-13,2025,1,13,E.L. Smith,pH,Min,2.5
+2025-01-13,2025,1,13,Rosedale,Colour (TCU),Avg,2.6
+2025-01-13,2025,1,13,Rosedale,Colour (TCU),Max,3.0
+2025-01-13,2025,1,13,Rosedale,Colour (TCU),Min,2.1
+2025-01-13,2025,1,13,Rosedale,Turbidity (NTU),Avg,2.9
+2025-01-13,2025,1,13,Rosedale,Turbidity (NTU),Max,3.1
+2025-01-13,2025,1,13,Rosedale,Turbidity (NTU),Min,2.6
+2025-01-13,2025,1,13,Rosedale,pH,Avg,8.0
+2025-01-13,2025,1,13,Rosedale,pH,Max,8.0
+2025-01-13,2025,1,13,Rosedale,pH,Min,8.0
+2025-01-14,2025,1,14,E.L. Smith,Colour (TCU),Avg,2.5
+2025-01-14,2025,1,14,E.L. Smith,Colour (TCU),Max,2.1
+2025-01-14,2025,1,14,E.L. Smith,Colour (TCU),Min,8.0
+2025-01-14,2025,1,14,E.L. Smith,Turbidity (NTU),Avg,3.3
+2025-01-14,2025,1,14,E.L. Smith,Turbidity (NTU),Max,2.6
+2025-01-14,2025,1,14,E.L. Smith,Turbidity (NTU),Min,
+2025-01-14,2025,1,14,E.L. Smith,pH,Avg,8.0
+2025-01-14,2025,1,14,E.L. Smith,pH,Max,8.0
+2025-01-14,2025,1,14,E.L. Smith,pH,Min,2.8
+2025-01-14,2025,1,14,Rosedale,Colour (TCU),Avg,2.4
+2025-01-14,2025,1,14,Rosedale,Colour (TCU),Max,2.6
+2025-01-14,2025,1,14,Rosedale,Colour (TCU),Min,2.1
+2025-01-14,2025,1,14,Rosedale,Turbidity (NTU),Avg,2.8
+2025-01-14,2025,1,14,Rosedale,Turbidity (NTU),Max,3.3
+2025-01-14,2025,1,14,Rosedale,Turbidity (NTU),Min,2.6
+2025-01-14,2025,1,14,Rosedale,pH,Avg,8.1
+2025-01-14,2025,1,14,Rosedale,pH,Max,8.1
+2025-01-14,2025,1,14,Rosedale,pH,Min,8.0
+2025-01-15,2025,1,15,E.L. Smith,Colour (TCU),Avg,2.6
+2025-01-15,2025,1,15,E.L. Smith,Colour (TCU),Max,2.1
+2025-01-15,2025,1,15,E.L. Smith,Colour (TCU),Min,8.0
+2025-01-15,2025,1,15,E.L. Smith,Turbidity (NTU),Avg,3.9
+2025-01-15,2025,1,15,E.L. Smith,Turbidity (NTU),Max,3.3
+2025-01-15,2025,1,15,E.L. Smith,Turbidity (NTU),Min,
+2025-01-15,2025,1,15,E.L. Smith,pH,Avg,8.0
+2025-01-15,2025,1,15,E.L. Smith,pH,Max,8.0
+2025-01-15,2025,1,15,E.L. Smith,pH,Min,3.8
+2025-01-15,2025,1,15,Rosedale,Colour (TCU),Avg,2.5
+2025-01-15,2025,1,15,Rosedale,Colour (TCU),Max,2.7
+2025-01-15,2025,1,15,Rosedale,Colour (TCU),Min,2.3
+2025-01-15,2025,1,15,Rosedale,Turbidity (NTU),Avg,3.7
+2025-01-15,2025,1,15,Rosedale,Turbidity (NTU),Max,3.9
+2025-01-15,2025,1,15,Rosedale,Turbidity (NTU),Min,3.3
+2025-01-15,2025,1,15,Rosedale,pH,Avg,8.0
+2025-01-15,2025,1,15,Rosedale,pH,Max,8.1
+2025-01-15,2025,1,15,Rosedale,pH,Min,8.0
+2025-01-16,2025,1,16,E.L. Smith,Colour (TCU),Avg,3.0
+2025-01-16,2025,1,16,E.L. Smith,Colour (TCU),Max,2.5
+2025-01-16,2025,1,16,E.L. Smith,Colour (TCU),Min,8.0
+2025-01-16,2025,1,16,E.L. Smith,Turbidity (NTU),Avg,3.5
+2025-01-16,2025,1,16,E.L. Smith,Turbidity (NTU),Max,2.9
+2025-01-16,2025,1,16,E.L. Smith,pH,Avg,8.0
+2025-01-16,2025,1,16,E.L. Smith,pH,Max,8.0
+2025-01-16,2025,1,16,E.L. Smith,pH,Min,3.2
+2025-01-16,2025,1,16,Rosedale,Colour (TCU),Avg,2.7
+2025-01-16,2025,1,16,Rosedale,Colour (TCU),Max,3.0
+2025-01-16,2025,1,16,Rosedale,Colour (TCU),Min,2.1
+2025-01-16,2025,1,16,Rosedale,Turbidity (NTU),Avg,3.5
+2025-01-16,2025,1,16,Rosedale,Turbidity (NTU),Max,3.8
+2025-01-16,2025,1,16,Rosedale,Turbidity (NTU),Min,3.2
+2025-01-16,2025,1,16,Rosedale,pH,Avg,8.0
+2025-01-16,2025,1,16,Rosedale,pH,Max,8.1
+2025-01-16,2025,1,16,Rosedale,pH,Min,8.0
+2025-01-17,2025,1,17,E.L. Smith,Colour (TCU),Avg,2.9
+2025-01-17,2025,1,17,E.L. Smith,Colour (TCU),Max,2.3
+2025-01-17,2025,1,17,E.L. Smith,Colour (TCU),Min,8.0
+2025-01-17,2025,1,17,E.L. Smith,Turbidity (NTU),Avg,2.9
+2025-01-17,2025,1,17,E.L. Smith,Turbidity (NTU),Max,2.2
+2025-01-17,2025,1,17,E.L. Smith,Turbidity (NTU),Min,
+2025-01-17,2025,1,17,E.L. Smith,pH,Avg,8.0
+2025-01-17,2025,1,17,E.L. Smith,pH,Max,8.0
+2025-01-17,2025,1,17,E.L. Smith,pH,Min,2.6
+2025-01-17,2025,1,17,Rosedale,Colour (TCU),Avg,2.9
+2025-01-17,2025,1,17,Rosedale,Colour (TCU),Max,3.5
+2025-01-17,2025,1,17,Rosedale,Colour (TCU),Min,2.1
+2025-01-17,2025,1,17,Rosedale,Turbidity (NTU),Avg,3.3
+2025-01-17,2025,1,17,Rosedale,Turbidity (NTU),Max,3.8
+2025-01-17,2025,1,17,Rosedale,Turbidity (NTU),Min,2.8
+2025-01-17,2025,1,17,Rosedale,pH,Avg,8.1
+2025-01-17,2025,1,17,Rosedale,pH,Max,8.1
+2025-01-17,2025,1,17,Rosedale,pH,Min,8.0
+2025-01-18,2025,1,18,E.L. Smith,Colour (TCU),Avg,2.9
+2025-01-18,2025,1,18,E.L. Smith,Colour (TCU),Max,2.0
+2025-01-18,2025,1,18,E.L. Smith,Colour (TCU),Min,8.1
+2025-01-18,2025,1,18,E.L. Smith,Turbidity (NTU),Avg,2.4
+2025-01-18,2025,1,18,E.L. Smith,Turbidity (NTU),Max,2.1
+2025-01-18,2025,1,18,E.L. Smith,Turbidity (NTU),Min,
+2025-01-18,2025,1,18,E.L. Smith,pH,Avg,8.1
+2025-01-18,2025,1,18,E.L. Smith,pH,Max,8.0
+2025-01-18,2025,1,18,E.L. Smith,pH,Min,2.2
+2025-01-18,2025,1,18,Rosedale,Colour (TCU),Avg,2.9
+2025-01-18,2025,1,18,Rosedale,Colour (TCU),Max,3.1
+2025-01-18,2025,1,18,Rosedale,Colour (TCU),Min,2.7
+2025-01-18,2025,1,18,Rosedale,Turbidity (NTU),Avg,2.6
+2025-01-18,2025,1,18,Rosedale,Turbidity (NTU),Max,2.8
+2025-01-18,2025,1,18,Rosedale,Turbidity (NTU),Min,2.5
+2025-01-18,2025,1,18,Rosedale,pH,Avg,8.1
+2025-01-18,2025,1,18,Rosedale,pH,Max,8.1
+2025-01-18,2025,1,18,Rosedale,pH,Min,8.0
+2025-01-19,2025,1,19,E.L. Smith,Colour (TCU),Avg,2.7
+2025-01-19,2025,1,19,E.L. Smith,Colour (TCU),Max,2.2
+2025-01-19,2025,1,19,E.L. Smith,Colour (TCU),Min,8.0
+2025-01-19,2025,1,19,E.L. Smith,Turbidity (NTU),Avg,2.1
+2025-01-19,2025,1,19,E.L. Smith,Turbidity (NTU),Max,1.8
+2025-01-19,2025,1,19,E.L. Smith,pH,Avg,8.1
+2025-01-19,2025,1,19,E.L. Smith,pH,Max,8.0
+2025-01-19,2025,1,19,E.L. Smith,pH,Min,2.0
+2025-01-19,2025,1,19,Rosedale,Colour (TCU),Avg,2.8
+2025-01-19,2025,1,19,Rosedale,Colour (TCU),Max,2.9
+2025-01-19,2025,1,19,Rosedale,Colour (TCU),Min,2.7
+2025-01-19,2025,1,19,Rosedale,Turbidity (NTU),Avg,2.3
+2025-01-19,2025,1,19,Rosedale,Turbidity (NTU),Max,2.6
+2025-01-19,2025,1,19,Rosedale,Turbidity (NTU),Min,2.0
+2025-01-19,2025,1,19,Rosedale,pH,Avg,8.1
+2025-01-19,2025,1,19,Rosedale,pH,Max,8.1
+2025-01-19,2025,1,19,Rosedale,pH,Min,8.0
+2025-01-20,2025,1,20,E.L. Smith,Colour (TCU),Avg,2.7
+2025-01-20,2025,1,20,E.L. Smith,Colour (TCU),Max,2.3
+2025-01-20,2025,1,20,E.L. Smith,Colour (TCU),Min,8.0
+2025-01-20,2025,1,20,E.L. Smith,Turbidity (NTU),Avg,2.0
+2025-01-20,2025,1,20,E.L. Smith,Turbidity (NTU),Max,1.8
+2025-01-20,2025,1,20,E.L. Smith,Turbidity (NTU),Min,
+2025-01-20,2025,1,20,E.L. Smith,pH,Avg,8.0
+2025-01-20,2025,1,20,E.L. Smith,pH,Max,8.0
+2025-01-20,2025,1,20,E.L. Smith,pH,Min,1.8
+2025-01-20,2025,1,20,Rosedale,Colour (TCU),Avg,2.7
+2025-01-20,2025,1,20,Rosedale,Colour (TCU),Max,2.9
+2025-01-20,2025,1,20,Rosedale,Colour (TCU),Min,2.6
+2025-01-20,2025,1,20,Rosedale,Turbidity (NTU),Avg,2.0
+2025-01-20,2025,1,20,Rosedale,Turbidity (NTU),Max,2.4
+2025-01-20,2025,1,20,Rosedale,Turbidity (NTU),Min,1.8
+2025-01-20,2025,1,20,Rosedale,pH,Avg,8.1
+2025-01-20,2025,1,20,Rosedale,pH,Max,8.1
+2025-01-20,2025,1,20,Rosedale,pH,Min,8.0
+2025-01-21,2025,1,21,E.L. Smith,Colour (TCU),Avg,2.8
+2025-01-21,2025,1,21,E.L. Smith,Colour (TCU),Max,2.6
+2025-01-21,2025,1,21,E.L. Smith,Colour (TCU),Min,8.0
+2025-01-21,2025,1,21,E.L. Smith,Turbidity (NTU),Avg,2.2
+2025-01-21,2025,1,21,E.L. Smith,Turbidity (NTU),Max,1.7
+2025-01-21,2025,1,21,E.L. Smith,Turbidity (NTU),Min,
+2025-01-21,2025,1,21,E.L. Smith,pH,Avg,8.1
+2025-01-21,2025,1,21,E.L. Smith,pH,Max,8.0
+2025-01-21,2025,1,21,E.L. Smith,pH,Min,2.0
+2025-01-21,2025,1,21,Rosedale,Colour (TCU),Avg,2.9
+2025-01-21,2025,1,21,Rosedale,Colour (TCU),Max,4.0
+2025-01-21,2025,1,21,Rosedale,Colour (TCU),Min,2.5
+2025-01-21,2025,1,21,Rosedale,Turbidity (NTU),Avg,2.1
+2025-01-21,2025,1,21,Rosedale,Turbidity (NTU),Max,2.4
+2025-01-21,2025,1,21,Rosedale,Turbidity (NTU),Min,1.7
+2025-01-21,2025,1,21,Rosedale,pH,Avg,8.1
+2025-01-21,2025,1,21,Rosedale,pH,Max,8.1
+2025-01-21,2025,1,21,Rosedale,pH,Min,8.1
+2025-01-22,2025,1,22,E.L. Smith,Colour (TCU),Avg,3.2
+2025-01-22,2025,1,22,E.L. Smith,Colour (TCU),Max,2.8
+2025-01-22,2025,1,22,E.L. Smith,Colour (TCU),Min,8.0
+2025-01-22,2025,1,22,E.L. Smith,Turbidity (NTU),Avg,2.0
+2025-01-22,2025,1,22,E.L. Smith,Turbidity (NTU),Max,1.7
+2025-01-22,2025,1,22,E.L. Smith,pH,Avg,8.0
+2025-01-22,2025,1,22,E.L. Smith,pH,Max,8.0
+2025-01-22,2025,1,22,E.L. Smith,pH,Min,1.8
+2025-01-22,2025,1,22,Rosedale,Colour (TCU),Avg,3.4
+2025-01-22,2025,1,22,Rosedale,Colour (TCU),Max,4.0
+2025-01-22,2025,1,22,Rosedale,Colour (TCU),Min,3.0
+2025-01-22,2025,1,22,Rosedale,Turbidity (NTU),Avg,1.9
+2025-01-22,2025,1,22,Rosedale,Turbidity (NTU),Max,2.2
+2025-01-22,2025,1,22,Rosedale,Turbidity (NTU),Min,1.7
+2025-01-22,2025,1,22,Rosedale,pH,Avg,8.1
+2025-01-22,2025,1,22,Rosedale,pH,Max,8.1
+2025-01-22,2025,1,22,Rosedale,pH,Min,8.0
+2025-01-23,2025,1,23,E.L. Smith,Colour (TCU),Avg,3.3
+2025-01-23,2025,1,23,E.L. Smith,Colour (TCU),Max,3.1
+2025-01-23,2025,1,23,E.L. Smith,Colour (TCU),Min,8.0
+2025-01-23,2025,1,23,E.L. Smith,Turbidity (NTU),Avg,2.2
+2025-01-23,2025,1,23,E.L. Smith,Turbidity (NTU),Max,1.8
+2025-01-23,2025,1,23,E.L. Smith,Turbidity (NTU),Min,
+2025-01-23,2025,1,23,E.L. Smith,pH,Avg,8.1
+2025-01-23,2025,1,23,E.L. Smith,pH,Max,8.0
+2025-01-23,2025,1,23,E.L. Smith,pH,Min,1.9
+2025-01-23,2025,1,23,Rosedale,Colour (TCU),Avg,3.2
+2025-01-23,2025,1,23,Rosedale,Colour (TCU),Max,3.3
+2025-01-23,2025,1,23,Rosedale,Colour (TCU),Min,2.8
+2025-01-23,2025,1,23,Rosedale,Turbidity (NTU),Avg,1.9
+2025-01-23,2025,1,23,Rosedale,Turbidity (NTU),Max,2.2
+2025-01-23,2025,1,23,Rosedale,Turbidity (NTU),Min,1.7
+2025-01-23,2025,1,23,Rosedale,pH,Avg,8.0
+2025-01-23,2025,1,23,Rosedale,pH,Max,8.1
+2025-01-23,2025,1,23,Rosedale,pH,Min,8.0
+2025-01-24,2025,1,24,E.L. Smith,Colour (TCU),Avg,3.6
+2025-01-24,2025,1,24,E.L. Smith,Colour (TCU),Max,3.2
+2025-01-24,2025,1,24,E.L. Smith,Colour (TCU),Min,8.1
+2025-01-24,2025,1,24,E.L. Smith,Turbidity (NTU),Avg,2.5
+2025-01-24,2025,1,24,E.L. Smith,Turbidity (NTU),Max,2.1
+2025-01-24,2025,1,24,E.L. Smith,Turbidity (NTU),Min,
+2025-01-24,2025,1,24,E.L. Smith,pH,Avg,8.1
+2025-01-24,2025,1,24,E.L. Smith,pH,Max,8.0
+2025-01-24,2025,1,24,E.L. Smith,pH,Min,2.3
+2025-01-24,2025,1,24,Rosedale,Colour (TCU),Avg,2.7
+2025-01-24,2025,1,24,Rosedale,Colour (TCU),Max,3.0
+2025-01-24,2025,1,24,Rosedale,Colour (TCU),Min,2.5
+2025-01-24,2025,1,24,Rosedale,Turbidity (NTU),Avg,2.3
+2025-01-24,2025,1,24,Rosedale,Turbidity (NTU),Max,2.4
+2025-01-24,2025,1,24,Rosedale,Turbidity (NTU),Min,2.2
+2025-01-24,2025,1,24,Rosedale,pH,Avg,8.1
+2025-01-24,2025,1,24,Rosedale,pH,Max,8.1
+2025-01-24,2025,1,24,Rosedale,pH,Min,8.1
+2025-01-25,2025,1,25,E.L. Smith,Colour (TCU),Avg,3.6
+2025-01-25,2025,1,25,E.L. Smith,Colour (TCU),Max,2.8
+2025-01-25,2025,1,25,E.L. Smith,Colour (TCU),Min,8.0
+2025-01-25,2025,1,25,E.L. Smith,Turbidity (NTU),Avg,2.6
+2025-01-25,2025,1,25,E.L. Smith,Turbidity (NTU),Max,2.1
+2025-01-25,2025,1,25,E.L. Smith,pH,Avg,8.1
+2025-01-25,2025,1,25,E.L. Smith,pH,Max,8.0
+2025-01-25,2025,1,25,E.L. Smith,pH,Min,2.3
+2025-01-25,2025,1,25,Rosedale,Colour (TCU),Avg,3.1
+2025-01-25,2025,1,25,Rosedale,Colour (TCU),Max,3.3
+2025-01-25,2025,1,25,Rosedale,Colour (TCU),Min,3.0
+2025-01-25,2025,1,25,Rosedale,Turbidity (NTU),Avg,2.4
+2025-01-25,2025,1,25,Rosedale,Turbidity (NTU),Max,2.5
+2025-01-25,2025,1,25,Rosedale,Turbidity (NTU),Min,2.3
+2025-01-25,2025,1,25,Rosedale,pH,Avg,8.1
+2025-01-25,2025,1,25,Rosedale,pH,Max,8.1
+2025-01-25,2025,1,25,Rosedale,pH,Min,8.1
+2025-01-26,2025,1,26,E.L. Smith,Colour (TCU),Avg,3.6
+2025-01-26,2025,1,26,E.L. Smith,Colour (TCU),Max,3.1
+2025-01-26,2025,1,26,E.L. Smith,Colour (TCU),Min,8.0
+2025-01-26,2025,1,26,E.L. Smith,Turbidity (NTU),Avg,3.2
+2025-01-26,2025,1,26,E.L. Smith,Turbidity (NTU),Max,2.4
+2025-01-26,2025,1,26,E.L. Smith,Turbidity (NTU),Min,
+2025-01-26,2025,1,26,E.L. Smith,pH,Avg,8.1
+2025-01-26,2025,1,26,E.L. Smith,pH,Max,8.0
+2025-01-26,2025,1,26,E.L. Smith,pH,Min,2.8
+2025-01-26,2025,1,26,Rosedale,Colour (TCU),Avg,3.1
+2025-01-26,2025,1,26,Rosedale,Colour (TCU),Max,3.3
+2025-01-26,2025,1,26,Rosedale,Colour (TCU),Min,3.0
+2025-01-26,2025,1,26,Rosedale,Turbidity (NTU),Avg,2.7
+2025-01-26,2025,1,26,Rosedale,Turbidity (NTU),Max,2.9
+2025-01-26,2025,1,26,Rosedale,Turbidity (NTU),Min,2.5
+2025-01-26,2025,1,26,Rosedale,pH,Avg,8.1
+2025-01-26,2025,1,26,Rosedale,pH,Max,8.1
+2025-01-26,2025,1,26,Rosedale,pH,Min,8.1
+2025-01-27,2025,1,27,E.L. Smith,Colour (TCU),Avg,3.4
+2025-01-27,2025,1,27,E.L. Smith,Colour (TCU),Max,3.0
+2025-01-27,2025,1,27,E.L. Smith,Colour (TCU),Min,8.0
+2025-01-27,2025,1,27,E.L. Smith,Turbidity (NTU),Avg,2.6
+2025-01-27,2025,1,27,E.L. Smith,Turbidity (NTU),Max,2.4
+2025-01-27,2025,1,27,E.L. Smith,Turbidity (NTU),Min,
+2025-01-27,2025,1,27,E.L. Smith,pH,Avg,8.1
+2025-01-27,2025,1,27,E.L. Smith,pH,Max,8.0
+2025-01-27,2025,1,27,E.L. Smith,pH,Min,2.5
+2025-01-27,2025,1,27,Rosedale,Colour (TCU),Avg,3.0
+2025-01-27,2025,1,27,Rosedale,Colour (TCU),Max,3.0
+2025-01-27,2025,1,27,Rosedale,Colour (TCU),Min,2.9
+2025-01-27,2025,1,27,Rosedale,Turbidity (NTU),Avg,2.7
+2025-01-27,2025,1,27,Rosedale,Turbidity (NTU),Max,3.0
+2025-01-27,2025,1,27,Rosedale,Turbidity (NTU),Min,2.5
+2025-01-27,2025,1,27,Rosedale,pH,Avg,8.1
+2025-01-27,2025,1,27,Rosedale,pH,Max,8.1
+2025-01-27,2025,1,27,Rosedale,pH,Min,8.1
+2025-01-28,2025,1,28,E.L. Smith,Colour (TCU),Avg,3.6
+2025-01-28,2025,1,28,E.L. Smith,Colour (TCU),Max,3.0
+2025-01-28,2025,1,28,E.L. Smith,Colour (TCU),Min,8.1
+2025-01-28,2025,1,28,E.L. Smith,Turbidity (NTU),Avg,3.2
+2025-01-28,2025,1,28,E.L. Smith,Turbidity (NTU),Max,2.3
+2025-01-28,2025,1,28,E.L. Smith,pH,Avg,8.1
+2025-01-28,2025,1,28,E.L. Smith,pH,Max,8.1
+2025-01-28,2025,1,28,E.L. Smith,pH,Min,2.6
+2025-01-28,2025,1,28,Rosedale,Colour (TCU),Avg,3.0
+2025-01-28,2025,1,28,Rosedale,Colour (TCU),Max,3.0
+2025-01-28,2025,1,28,Rosedale,Colour (TCU),Min,2.9
+2025-01-28,2025,1,28,Rosedale,Turbidity (NTU),Avg,2.6
+2025-01-28,2025,1,28,Rosedale,Turbidity (NTU),Max,3.0
+2025-01-28,2025,1,28,Rosedale,Turbidity (NTU),Min,2.4
+2025-01-28,2025,1,28,Rosedale,pH,Avg,8.1
+2025-01-28,2025,1,28,Rosedale,pH,Max,8.1
+2025-01-28,2025,1,28,Rosedale,pH,Min,8.0
+2025-01-29,2025,1,29,E.L. Smith,Colour (TCU),Avg,3.6
+2025-01-29,2025,1,29,E.L. Smith,Colour (TCU),Max,3.0
+2025-01-29,2025,1,29,E.L. Smith,Colour (TCU),Min,8.1
+2025-01-29,2025,1,29,E.L. Smith,Turbidity (NTU),Avg,2.5
+2025-01-29,2025,1,29,E.L. Smith,Turbidity (NTU),Max,1.8
+2025-01-29,2025,1,29,E.L. Smith,Turbidity (NTU),Min,
+2025-01-29,2025,1,29,E.L. Smith,pH,Avg,8.1
+2025-01-29,2025,1,29,E.L. Smith,pH,Max,8.0
+2025-01-29,2025,1,29,E.L. Smith,pH,Min,2.1
+2025-01-29,2025,1,29,Rosedale,Colour (TCU),Avg,3.1
+2025-01-29,2025,1,29,Rosedale,Colour (TCU),Max,3.2
+2025-01-29,2025,1,29,Rosedale,Colour (TCU),Min,3.0
+2025-01-29,2025,1,29,Rosedale,Turbidity (NTU),Avg,2.2
+2025-01-29,2025,1,29,Rosedale,Turbidity (NTU),Max,2.5
+2025-01-29,2025,1,29,Rosedale,Turbidity (NTU),Min,2.0
+2025-01-29,2025,1,29,Rosedale,pH,Avg,8.0
+2025-01-29,2025,1,29,Rosedale,pH,Max,8.1
+2025-01-29,2025,1,29,Rosedale,pH,Min,8.0
+2025-01-30,2025,1,30,E.L. Smith,Colour (TCU),Avg,3.6
+2025-01-30,2025,1,30,E.L. Smith,Colour (TCU),Max,2.8
+2025-01-30,2025,1,30,E.L. Smith,Colour (TCU),Min,8.1
+2025-01-30,2025,1,30,E.L. Smith,Turbidity (NTU),Avg,2.2
+2025-01-30,2025,1,30,E.L. Smith,Turbidity (NTU),Max,2.1
+2025-01-30,2025,1,30,E.L. Smith,Turbidity (NTU),Min,
+2025-01-30,2025,1,30,E.L. Smith,pH,Avg,8.1
+2025-01-30,2025,1,30,E.L. Smith,pH,Max,8.0
+2025-01-30,2025,1,30,E.L. Smith,pH,Min,2.1
+2025-01-30,2025,1,30,Rosedale,Colour (TCU),Avg,3.4
+2025-01-30,2025,1,30,Rosedale,Colour (TCU),Max,3.6
+2025-01-30,2025,1,30,Rosedale,Colour (TCU),Min,3.0
+2025-01-30,2025,1,30,Rosedale,Turbidity (NTU),Avg,2.3
+2025-01-30,2025,1,30,Rosedale,Turbidity (NTU),Max,2.4
+2025-01-30,2025,1,30,Rosedale,Turbidity (NTU),Min,2.2
+2025-01-30,2025,1,30,Rosedale,pH,Avg,8.1
+2025-01-30,2025,1,30,Rosedale,pH,Max,8.1
+2025-01-30,2025,1,30,Rosedale,pH,Min,8.1
+2025-01-01,2025,1,1,E.L. Smith,Colour (TCU),Avg,2.9
+2025-01-01,2025,1,1,E.L. Smith,Colour (TCU),Max,3.1
+2025-01-01,2025,1,1,E.L. Smith,Colour (TCU),Min,2.6
+2025-01-01,2025,1,1,E.L. Smith,Turbidity (NTU),Avg,2.1
+2025-01-01,2025,1,1,E.L. Smith,Turbidity (NTU),Max,2.2
+2025-01-01,2025,1,1,E.L. Smith,Turbidity (NTU),Min,2.0
+2025-01-01,2025,1,1,E.L. Smith,pH,Min,8.1
+2025-01-02,2025,1,2,E.L. Smith,Colour (TCU),Avg,2.8
+2025-01-02,2025,1,2,E.L. Smith,Colour (TCU),Max,3.1
+2025-01-02,2025,1,2,E.L. Smith,Colour (TCU),Min,2.5
+2025-01-02,2025,1,2,E.L. Smith,Turbidity (NTU),Avg,2.1
+2025-01-02,2025,1,2,E.L. Smith,Turbidity (NTU),Max,2.2
+2025-01-02,2025,1,2,E.L. Smith,Turbidity (NTU),Min,1.9
+2025-01-02,2025,1,2,E.L. Smith,pH,Min,8.1
+2025-01-03,2025,1,3,E.L. Smith,Colour (TCU),Avg,2.6
+2025-01-03,2025,1,3,E.L. Smith,Colour (TCU),Max,2.9
+2025-01-03,2025,1,3,E.L. Smith,Colour (TCU),Min,2.5
+2025-01-03,2025,1,3,E.L. Smith,Turbidity (NTU),Avg,2.1
+2025-01-03,2025,1,3,E.L. Smith,Turbidity (NTU),Max,2.3
+2025-01-03,2025,1,3,E.L. Smith,Turbidity (NTU),Min,2.0
+2025-01-03,2025,1,3,E.L. Smith,pH,Max,8.1
+2025-01-03,2025,1,3,E.L. Smith,pH,Min,8.0
+2025-01-04,2025,1,4,E.L. Smith,Colour (TCU),Avg,2.3
+2025-01-04,2025,1,4,E.L. Smith,Colour (TCU),Max,2.6
+2025-01-04,2025,1,4,E.L. Smith,Colour (TCU),Min,1.9
+2025-01-04,2025,1,4,E.L. Smith,Turbidity (NTU),Max,2.0
+2025-01-04,2025,1,4,E.L. Smith,Turbidity (NTU),Min,1.9
+2025-01-04,2025,1,4,E.L. Smith,pH,Max,8.1
+2025-01-04,2025,1,4,E.L. Smith,pH,Min,8.0
+2025-01-05,2025,1,5,E.L. Smith,Colour (TCU),Avg,2.6
+2025-01-05,2025,1,5,E.L. Smith,Colour (TCU),Max,3.0
+2025-01-05,2025,1,5,E.L. Smith,Colour (TCU),Min,2.4
+2025-01-05,2025,1,5,E.L. Smith,Turbidity (NTU),Avg,2.1
+2025-01-05,2025,1,5,E.L. Smith,Turbidity (NTU),Max,2.8
+2025-01-05,2025,1,5,E.L. Smith,Turbidity (NTU),Min,1.9
+2025-01-05,2025,1,5,E.L. Smith,pH,Max,8.1
+2025-01-05,2025,1,5,E.L. Smith,pH,Min,8.0
+2025-01-06,2025,1,6,E.L. Smith,Colour (TCU),Avg,2.3
+2025-01-06,2025,1,6,E.L. Smith,Colour (TCU),Max,3.0
+2025-01-06,2025,1,6,E.L. Smith,Colour (TCU),Min,1.9
+2025-01-06,2025,1,6,E.L. Smith,Turbidity (NTU),Avg,2.2
+2025-01-06,2025,1,6,E.L. Smith,Turbidity (NTU),Max,2.8
+2025-01-06,2025,1,6,E.L. Smith,Turbidity (NTU),Min,2.0
+2025-01-06,2025,1,6,E.L. Smith,pH,Min,8.0
+2025-01-07,2025,1,7,E.L. Smith,Colour (TCU),Avg,2.5
+2025-01-07,2025,1,7,E.L. Smith,Colour (TCU),Max,2.6
+2025-01-07,2025,1,7,E.L. Smith,Colour (TCU),Min,2.1
+2025-01-07,2025,1,7,E.L. Smith,Turbidity (NTU),Avg,2.2
+2025-01-07,2025,1,7,E.L. Smith,Turbidity (NTU),Max,2.3
+2025-01-07,2025,1,7,E.L. Smith,Turbidity (NTU),Min,2.2
+2025-01-07,2025,1,7,E.L. Smith,pH,Min,8.0
+2025-01-08,2025,1,8,E.L. Smith,Colour (TCU),Avg,2.7
+2025-01-08,2025,1,8,E.L. Smith,Colour (TCU),Max,2.9
+2025-01-08,2025,1,8,E.L. Smith,Colour (TCU),Min,2.4
+2025-01-08,2025,1,8,E.L. Smith,Turbidity (NTU),Avg,2.3
+2025-01-08,2025,1,8,E.L. Smith,Turbidity (NTU),Max,2.5
+2025-01-08,2025,1,8,E.L. Smith,Turbidity (NTU),Min,2.1
+2025-01-08,2025,1,8,E.L. Smith,pH,Avg,8.0
+2025-01-08,2025,1,8,E.L. Smith,pH,Max,8.1
+2025-01-08,2025,1,8,E.L. Smith,pH,Min,8.0
+2025-01-09,2025,1,9,E.L. Smith,Colour (TCU),Avg,2.9
+2025-01-09,2025,1,9,E.L. Smith,Colour (TCU),Max,3.1
+2025-01-09,2025,1,9,E.L. Smith,Colour (TCU),Min,2.5
+2025-01-09,2025,1,9,E.L. Smith,Turbidity (NTU),Avg,3.9
+2025-01-09,2025,1,9,E.L. Smith,Turbidity (NTU),Max,7.3
+2025-01-09,2025,1,9,E.L. Smith,Turbidity (NTU),Min,2.3
+2025-01-09,2025,1,9,E.L. Smith,pH,Min,8.1
+2025-01-10,2025,1,10,E.L. Smith,Colour (TCU),Avg,2.6
+2025-01-10,2025,1,10,E.L. Smith,Colour (TCU),Max,2.8
+2025-01-10,2025,1,10,E.L. Smith,Colour (TCU),Min,2.5
+2025-01-10,2025,1,10,E.L. Smith,Turbidity (NTU),Avg,2.4
+2025-01-10,2025,1,10,E.L. Smith,Turbidity (NTU),Max,2.5
+2025-01-10,2025,1,10,E.L. Smith,Turbidity (NTU),Min,2.3
+2025-01-10,2025,1,10,E.L. Smith,pH,Avg,8.0
+2025-01-10,2025,1,10,E.L. Smith,pH,Max,8.1
+2025-01-10,2025,1,10,E.L. Smith,pH,Min,8.0
+2025-01-11,2025,1,11,E.L. Smith,Colour (TCU),Max,2.5
+2025-01-11,2025,1,11,E.L. Smith,Colour (TCU),Min,2.4
+2025-01-11,2025,1,11,E.L. Smith,Turbidity (NTU),Avg,2.6
+2025-01-11,2025,1,11,E.L. Smith,Turbidity (NTU),Max,3.6
+2025-01-11,2025,1,11,E.L. Smith,Turbidity (NTU),Min,2.2
+2025-01-11,2025,1,11,E.L. Smith,pH,Min,8.0
+2025-01-12,2025,1,12,E.L. Smith,Colour (TCU),Avg,2.4
+2025-01-12,2025,1,12,E.L. Smith,Colour (TCU),Max,2.7
+2025-01-12,2025,1,12,E.L. Smith,Colour (TCU),Min,2.2
+2025-01-12,2025,1,12,E.L. Smith,Turbidity (NTU),Avg,2.9
+2025-01-12,2025,1,12,E.L. Smith,Turbidity (NTU),Max,3.6
+2025-01-12,2025,1,12,E.L. Smith,Turbidity (NTU),Min,2.4
+2025-01-12,2025,1,12,E.L. Smith,pH,Avg,8.0
+2025-01-12,2025,1,12,E.L. Smith,pH,Max,8.1
+2025-01-12,2025,1,12,E.L. Smith,pH,Min,7.9
+2025-01-13,2025,1,13,E.L. Smith,Colour (TCU),Avg,2.4
+2025-01-13,2025,1,13,E.L. Smith,Colour (TCU),Max,2.7
+2025-01-13,2025,1,13,E.L. Smith,Colour (TCU),Min,2.2
+2025-01-13,2025,1,13,E.L. Smith,Turbidity (NTU),Avg,2.5
+2025-01-13,2025,1,13,E.L. Smith,Turbidity (NTU),Max,2.7
+2025-01-13,2025,1,13,E.L. Smith,Turbidity (NTU),Min,2.3
+2025-01-13,2025,1,13,E.L. Smith,pH,Max,8.1
+2025-01-13,2025,1,13,E.L. Smith,pH,Min,8.0
+2025-01-14,2025,1,14,E.L. Smith,Colour (TCU),Avg,2.3
+2025-01-14,2025,1,14,E.L. Smith,Colour (TCU),Max,2.5
+2025-01-14,2025,1,14,E.L. Smith,Colour (TCU),Min,2.1
+2025-01-14,2025,1,14,E.L. Smith,Turbidity (NTU),Avg,2.8
+2025-01-14,2025,1,14,E.L. Smith,Turbidity (NTU),Max,3.3
+2025-01-14,2025,1,14,E.L. Smith,Turbidity (NTU),Min,2.6
+2025-01-14,2025,1,14,E.L. Smith,pH,Min,8.0
+2025-01-15,2025,1,15,E.L. Smith,Colour (TCU),Avg,2.4
+2025-01-15,2025,1,15,E.L. Smith,Colour (TCU),Max,2.6
+2025-01-15,2025,1,15,E.L. Smith,Colour (TCU),Min,2.1
+2025-01-15,2025,1,15,E.L. Smith,Turbidity (NTU),Avg,3.8
+2025-01-15,2025,1,15,E.L. Smith,Turbidity (NTU),Max,3.9
+2025-01-15,2025,1,15,E.L. Smith,Turbidity (NTU),Min,3.3
+2025-01-15,2025,1,15,E.L. Smith,pH,Min,8.0
+2025-01-16,2025,1,16,E.L. Smith,Colour (TCU),Avg,2.8
+2025-01-16,2025,1,16,E.L. Smith,Colour (TCU),Max,3.0
+2025-01-16,2025,1,16,E.L. Smith,Colour (TCU),Min,2.5
+2025-01-16,2025,1,16,E.L. Smith,Turbidity (NTU),Avg,3.2
+2025-01-16,2025,1,16,E.L. Smith,Turbidity (NTU),Max,3.5
+2025-01-16,2025,1,16,E.L. Smith,Turbidity (NTU),Min,2.9
+2025-01-16,2025,1,16,E.L. Smith,pH,Min,8.0
+2025-01-17,2025,1,17,E.L. Smith,Colour (TCU),Avg,2.7
+2025-01-17,2025,1,17,E.L. Smith,Colour (TCU),Max,2.9
+2025-01-17,2025,1,17,E.L. Smith,Colour (TCU),Min,2.3
+2025-01-17,2025,1,17,E.L. Smith,Turbidity (NTU),Avg,2.6
+2025-01-17,2025,1,17,E.L. Smith,Turbidity (NTU),Max,2.9
+2025-01-17,2025,1,17,E.L. Smith,Turbidity (NTU),Min,2.2
+2025-01-17,2025,1,17,E.L. Smith,pH,Min,8.0
+2025-01-18,2025,1,18,E.L. Smith,Colour (TCU),Avg,2.3
+2025-01-18,2025,1,18,E.L. Smith,Colour (TCU),Max,2.9
+2025-01-18,2025,1,18,E.L. Smith,Colour (TCU),Min,2.0
+2025-01-18,2025,1,18,E.L. Smith,Turbidity (NTU),Avg,2.2
+2025-01-18,2025,1,18,E.L. Smith,Turbidity (NTU),Max,2.4
+2025-01-18,2025,1,18,E.L. Smith,Turbidity (NTU),Min,2.1
+2025-01-18,2025,1,18,E.L. Smith,pH,Max,8.1
+2025-01-18,2025,1,18,E.L. Smith,pH,Min,8.0
+2025-01-19,2025,1,19,E.L. Smith,Colour (TCU),Avg,2.4
+2025-01-19,2025,1,19,E.L. Smith,Colour (TCU),Max,2.7
+2025-01-19,2025,1,19,E.L. Smith,Colour (TCU),Min,2.2
+2025-01-19,2025,1,19,E.L. Smith,Turbidity (NTU),Avg,2.0
+2025-01-19,2025,1,19,E.L. Smith,Turbidity (NTU),Max,2.1
+2025-01-19,2025,1,19,E.L. Smith,Turbidity (NTU),Min,1.8
+2025-01-19,2025,1,19,E.L. Smith,pH,Avg,8.0
+2025-01-19,2025,1,19,E.L. Smith,pH,Max,8.1
+2025-01-19,2025,1,19,E.L. Smith,pH,Min,8.0
+2025-01-20,2025,1,20,E.L. Smith,Colour (TCU),Avg,2.4
+2025-01-20,2025,1,20,E.L. Smith,Colour (TCU),Max,2.7
+2025-01-20,2025,1,20,E.L. Smith,Colour (TCU),Min,2.3
+2025-01-20,2025,1,20,E.L. Smith,Turbidity (NTU),Avg,1.8
+2025-01-20,2025,1,20,E.L. Smith,Turbidity (NTU),Max,2.0
+2025-01-20,2025,1,20,E.L. Smith,Turbidity (NTU),Min,1.8
+2025-01-20,2025,1,20,E.L. Smith,pH,Min,8.0
+2025-01-21,2025,1,21,E.L. Smith,Colour (TCU),Avg,2.6
+2025-01-21,2025,1,21,E.L. Smith,Colour (TCU),Max,2.8
+2025-01-21,2025,1,21,E.L. Smith,Colour (TCU),Min,2.6
+2025-01-21,2025,1,21,E.L. Smith,Turbidity (NTU),Avg,2.0
+2025-01-21,2025,1,21,E.L. Smith,Turbidity (NTU),Max,2.2
+2025-01-21,2025,1,21,E.L. Smith,Turbidity (NTU),Min,1.7
+2025-01-21,2025,1,21,E.L. Smith,pH,Avg,8.0
+2025-01-21,2025,1,21,E.L. Smith,pH,Max,8.1
+2025-01-21,2025,1,21,E.L. Smith,pH,Min,8.0
+2025-01-22,2025,1,22,E.L. Smith,Colour (TCU),Avg,3.1
+2025-01-22,2025,1,22,E.L. Smith,Colour (TCU),Max,3.2
+2025-01-22,2025,1,22,E.L. Smith,Colour (TCU),Min,2.8
+2025-01-22,2025,1,22,E.L. Smith,Turbidity (NTU),Avg,1.8
+2025-01-22,2025,1,22,E.L. Smith,Turbidity (NTU),Max,2.0
+2025-01-22,2025,1,22,E.L. Smith,Turbidity (NTU),Min,1.7
+2025-01-22,2025,1,22,E.L. Smith,pH,Min,8.0
+2025-01-23,2025,1,23,E.L. Smith,Colour (TCU),Avg,3.2
+2025-01-23,2025,1,23,E.L. Smith,Colour (TCU),Max,3.3
+2025-01-23,2025,1,23,E.L. Smith,Colour (TCU),Min,3.1
+2025-01-23,2025,1,23,E.L. Smith,Turbidity (NTU),Avg,1.9
+2025-01-23,2025,1,23,E.L. Smith,Turbidity (NTU),Max,2.2
+2025-01-23,2025,1,23,E.L. Smith,Turbidity (NTU),Min,1.8
+2025-01-23,2025,1,23,E.L. Smith,pH,Avg,8.0
+2025-01-23,2025,1,23,E.L. Smith,pH,Max,8.1
+2025-01-23,2025,1,23,E.L. Smith,pH,Min,8.0
+2025-01-24,2025,1,24,E.L. Smith,Colour (TCU),Avg,3.4
+2025-01-24,2025,1,24,E.L. Smith,Colour (TCU),Max,3.6
+2025-01-24,2025,1,24,E.L. Smith,Colour (TCU),Min,3.2
+2025-01-24,2025,1,24,E.L. Smith,Turbidity (NTU),Avg,2.3
+2025-01-24,2025,1,24,E.L. Smith,Turbidity (NTU),Max,2.5
+2025-01-24,2025,1,24,E.L. Smith,Turbidity (NTU),Min,2.1
+2025-01-24,2025,1,24,E.L. Smith,pH,Max,8.1
+2025-01-24,2025,1,24,E.L. Smith,pH,Min,8.0
+2025-01-25,2025,1,25,E.L. Smith,Colour (TCU),Avg,3.3
+2025-01-25,2025,1,25,E.L. Smith,Colour (TCU),Max,3.6
+2025-01-25,2025,1,25,E.L. Smith,Colour (TCU),Min,2.8
+2025-01-25,2025,1,25,E.L. Smith,Turbidity (NTU),Avg,2.3
+2025-01-25,2025,1,25,E.L. Smith,Turbidity (NTU),Max,2.6
+2025-01-25,2025,1,25,E.L. Smith,Turbidity (NTU),Min,2.1
+2025-01-25,2025,1,25,E.L. Smith,pH,Avg,8.0
+2025-01-25,2025,1,25,E.L. Smith,pH,Max,8.1
+2025-01-25,2025,1,25,E.L. Smith,pH,Min,8.0
+2025-01-26,2025,1,26,E.L. Smith,Colour (TCU),Avg,3.3
+2025-01-26,2025,1,26,E.L. Smith,Colour (TCU),Max,3.6
+2025-01-26,2025,1,26,E.L. Smith,Colour (TCU),Min,3.1
+2025-01-26,2025,1,26,E.L. Smith,Turbidity (NTU),Avg,2.8
+2025-01-26,2025,1,26,E.L. Smith,Turbidity (NTU),Max,3.2
+2025-01-26,2025,1,26,E.L. Smith,Turbidity (NTU),Min,2.4
+2025-01-26,2025,1,26,E.L. Smith,pH,Avg,8.0
+2025-01-26,2025,1,26,E.L. Smith,pH,Max,8.1
+2025-01-26,2025,1,26,E.L. Smith,pH,Min,8.0
+2025-01-27,2025,1,27,E.L. Smith,Colour (TCU),Avg,3.2
+2025-01-27,2025,1,27,E.L. Smith,Colour (TCU),Max,3.4
+2025-01-27,2025,1,27,E.L. Smith,Colour (TCU),Min,3.0
+2025-01-27,2025,1,27,E.L. Smith,Turbidity (NTU),Avg,2.5
+2025-01-27,2025,1,27,E.L. Smith,Turbidity (NTU),Max,2.6
+2025-01-27,2025,1,27,E.L. Smith,Turbidity (NTU),Min,2.4
+2025-01-27,2025,1,27,E.L. Smith,pH,Avg,8.0
+2025-01-27,2025,1,27,E.L. Smith,pH,Max,8.1
+2025-01-27,2025,1,27,E.L. Smith,pH,Min,8.0
+2025-01-28,2025,1,28,E.L. Smith,Colour (TCU),Avg,3.4
+2025-01-28,2025,1,28,E.L. Smith,Colour (TCU),Max,3.6
+2025-01-28,2025,1,28,E.L. Smith,Colour (TCU),Min,3.0
+2025-01-28,2025,1,28,E.L. Smith,Turbidity (NTU),Avg,2.6
+2025-01-28,2025,1,28,E.L. Smith,Turbidity (NTU),Max,3.2
+2025-01-28,2025,1,28,E.L. Smith,Turbidity (NTU),Min,2.3
+2025-01-28,2025,1,28,E.L. Smith,pH,Min,8.1
+2025-01-29,2025,1,29,E.L. Smith,Colour (TCU),Avg,3.3
+2025-01-29,2025,1,29,E.L. Smith,Colour (TCU),Max,3.6
+2025-01-29,2025,1,29,E.L. Smith,Colour (TCU),Min,3.0
+2025-01-29,2025,1,29,E.L. Smith,Turbidity (NTU),Avg,2.1
+2025-01-29,2025,1,29,E.L. Smith,Turbidity (NTU),Max,2.5
+2025-01-29,2025,1,29,E.L. Smith,Turbidity (NTU),Min,1.8
+2025-01-29,2025,1,29,E.L. Smith,pH,Max,8.1
+2025-01-29,2025,1,29,E.L. Smith,pH,Min,8.0
+2025-01-30,2025,1,30,E.L. Smith,Colour (TCU),Avg,3.0
+2025-01-30,2025,1,30,E.L. Smith,Colour (TCU),Max,3.6
+2025-01-30,2025,1,30,E.L. Smith,Colour (TCU),Min,2.8
+2025-01-30,2025,1,30,E.L. Smith,Turbidity (NTU),Avg,2.1
+2025-01-30,2025,1,30,E.L. Smith,Turbidity (NTU),Max,2.2
+2025-01-30,2025,1,30,E.L. Smith,Turbidity (NTU),Min,2.1
+2025-01-30,2025,1,30,E.L. Smith,pH,Max,8.1
+2025-01-30,2025,1,30,E.L. Smith,pH,Min,8.0
+2025-01-31,2025,1,31,E.L. Smith,Colour (TCU),Avg,3.0
+2025-01-31,2025,1,31,E.L. Smith,Colour (TCU),Max,3.1
+2025-01-31,2025,1,31,E.L. Smith,Colour (TCU),Min,2.8
+2025-01-31,2025,1,31,E.L. Smith,Turbidity (NTU),Avg,2.0
+2025-01-31,2025,1,31,E.L. Smith,Turbidity (NTU),Max,2.1
+2025-01-31,2025,1,31,E.L. Smith,Turbidity (NTU),Min,2.0
+2025-01-31,2025,1,31,E.L. Smith,pH,Avg,7.9
+2025-01-31,2025,1,31,E.L. Smith,pH,Max,8.0
+2025-01-31,2025,1,31,E.L. Smith,pH,Min,7.9
